@@ -8,7 +8,7 @@ Este repositorio contiene mis soluciones a los retos de AdventJS propuestos por 
 
 ## Agradecimientos
 
-_Agradece a [Midudev](https://github.com/midudev) por crear estos desafíos y proporcionar una oportunidad para mejorar tus habilidades de programación en JavaScript._
+_Un agradecimiento especial a [Midudev](https://github.com/midudev) por crear estos desafíos y proporcionar una oportunidad para mejorar mis habilidades de programación en JavaScript._
 
 ## Recursos
 
