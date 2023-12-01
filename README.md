@@ -6,15 +6,17 @@
 
 Este repositorio contiene mis soluciones a los retos de AdventJS propuestos por Midudev. AdventJS es una serie de desafíos diarios en los que se exploran diversos conceptos de JavaScript durante la temporada navideña.
 
-## Agradecimientos
-
-_Un agradecimiento especial a [Midudev](https://github.com/midudev) por crear estos desafíos y proporcionar una oportunidad para mejorar mis habilidades de programación en JavaScript._
+# Lista de Desafíos
+| Número        | Desafío     | Código      |          
+| ------------- |:-------------:|:-------------:|
+|```01```| Cambiar regalo repetido | [Ver](https://github.com/MarceeloDominguez/AdventJS/blob/master/2023/01-cambiar-regalo-repetido/index.js) |
 
 ## Recursos
 
 - [AdventJS](https://adventjs.dev/es)
 
-# Lista de Desafíos
-| Número        | Desafío     | Código      |          
-| ------------- |:-------------:|:-------------:|
-|```01```| Cambiar regalo repetido | [Ver](https://github.com/MarceeloDominguez/AdventJS/blob/master/2023/01-cambiar-regalo-repetido/index.js) |
+## Agradecimientos
+
+_Un agradecimiento especial a [Midudev](https://github.com/midudev) por crear estos desafíos y proporcionar una oportunidad para mejorar mis habilidades de programación en JavaScript._
+
+
