@@ -14,7 +14,7 @@ _Un agradecimiento especial a [Midudev](https://github.com/midudev) por crear es
 
 - [AdventJS](https://adventjs.dev/es)
 
-# Proyectos 
+# Lista de Desafíos
 | Número        | Desafío     | Código      |          
 | ------------- |:-------------:|:-------------:|
 |```01```| Cambiar regalo repetido | [Ver](https://github.com/MarceeloDominguez/AdventJS/blob/master/2023/01-cambiar-regalo-repetido/index.js) |
