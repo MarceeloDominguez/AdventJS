@@ -10,6 +10,7 @@ _Este repositorio contiene mis soluciones a los retos de AdventJS propuestos por
 | Número        | Desafío     | Código      |          
 | ------------- |:-------------:|:-------------:|
 |```01```| Cambiar regalo repetido | [Ver](https://github.com/MarceeloDominguez/AdventJS/blob/master/2023/01-cambiar-regalo-repetido/index.js) |
+|```02```| Ponemos en marcha la fabrica | [Ver](https://github.com/MarceeloDominguez/AdventJS/blob/master/2023/02-ponemos-en-marcha-la-fabrica/index.js) |
 
 ## Recursos
 
