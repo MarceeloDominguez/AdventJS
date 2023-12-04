@@ -11,6 +11,7 @@ _Este repositorio contiene mis soluciones a los retos de AdventJS propuestos por
 | ------------- |:-------------:|:-------------:|
 |```01```| Cambiar regalo repetido | [Ver](https://github.com/MarceeloDominguez/AdventJS/blob/master/2023/01-cambiar-regalo-repetido/index.js) |
 |```02```| Ponemos en marcha la fabrica | [Ver](https://github.com/MarceeloDominguez/AdventJS/blob/master/2023/02-ponemos-en-marcha-la-fabrica/index.js) |
+|```03```| El elfo travieso | [Ver](https://github.com/MarceeloDominguez/AdventJS/blob/master/2023/03-el-elfo-travieso/index.js) |
 
 ## Recursos
 
