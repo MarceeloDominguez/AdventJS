@@ -12,17 +12,23 @@ function findFirstRepeated(gifts) {
   //   });
   //   return firstRepeated !== undefined ? firstRepeated : -1;
 
-  const seen = new Set();
+  // const seen = new Set();
 
-  for (const item of gifts) {
-    if (seen.has(item)) return item;
-    seen.add(item);
-  }
+  // for (const item of gifts) {
+  //   if (seen.has(item)) return item;
+  //   seen.add(item);
+  // }
 
-  return -1;
+  // return -1;
+
+  const firstRepeated = gifts.find(
+    (number, index, array) => array.indexOf(number) !== index
+  );
+
+  return firstRepeated !== undefined ? firstRepeated : -1;
 }
 
-const giftIds = [2, 1, 3, 5, 3, 2];
+const giftIds = [5, 1, 5, 1];
 
 const result = findFirstRepeated(giftIds);
 console.log(result);
