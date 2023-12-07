@@ -14,6 +14,7 @@ _Este repositorio contiene mis soluciones a los retos de AdventJS propuestos por
 |```03```| El elfo travieso | [Ver](https://github.com/MarceeloDominguez/AdventJS/blob/master/2023/03-el-elfo-travieso/index.js) |
 |```04```| Dale la vuelta a los parentesis | [Ver](https://github.com/MarceeloDominguez/AdventJS/blob/master/2023/04-dale-la-vuelta-a-los-parentesis/index.js) |
 |```05```| El CyberTruck de Santa | [Ver](https://github.com/MarceeloDominguez/AdventJS/blob/master/2023/05-el-cyberTruck-de-santa/index.js) |
+|```06```| Los renos a prueba | [Ver](https://github.com/MarceeloDominguez/AdventJS/blob/master/2023/06-los-renos-a-prueba/index.js) |
 
 ## Recursos
 
