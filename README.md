@@ -18,6 +18,8 @@ _Este repositorio contiene mis soluciones a los retos de AdventJS propuestos por
 |```07```| Las cajas en 3D | [Ver](https://github.com/MarceeloDominguez/AdventJS/blob/master/2023/07-las-cajas-en-3D/index.js) |
 |```08```| Ordenando el almacen | [Ver](https://github.com/MarceeloDominguez/AdventJS/blob/master/2023/08-ordenando-el-almacen/index.js) |
 |```09```| Alterna las luces | [Ver](https://github.com/MarceeloDominguez/AdventJS/blob/master/2023/09-alterna-las-luces/index.js) |
+|```10```| Crea tu propio arbol de navidad | [Ver](https://github.com/MarceeloDominguez/AdventJS/blob/master/2023/10-crea-tu-propio-arbol-de-navidad/index.js) |
+|```11```| Los elfos estudiosos | [Ver](https://github.com/MarceeloDominguez/AdventJS/blob/master/2023/11-los-elfos-estudiosos/index.js) |
 
 ## Recursos
 
