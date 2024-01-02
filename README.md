@@ -20,6 +20,9 @@ _Este repositorio contiene mis soluciones a los retos de AdventJS propuestos por
 |```09```| Alterna las luces | [Ver](https://github.com/MarceeloDominguez/AdventJS/blob/master/2023/09-alterna-las-luces/index.js) |
 |```10```| Crea tu propio arbol de navidad | [Ver](https://github.com/MarceeloDominguez/AdventJS/blob/master/2023/10-crea-tu-propio-arbol-de-navidad/index.js) |
 |```11```| Los elfos estudiosos | [Ver](https://github.com/MarceeloDominguez/AdventJS/blob/master/2023/11-los-elfos-estudiosos/index.js) |
+|```12```| Es una copia valida | [Ver](https://github.com/MarceeloDominguez/AdventJS/blob/master/2023/12-es-una-copia-valida/index.js) |
+|```13```| Calculando el tiempo | [Ver](https://github.com/MarceeloDominguez/AdventJS/blob/master/2023/13-calculando-el-tiempo/index.js) |
+|```14```| Evita la alarma | [Ver](https://github.com/MarceeloDominguez/AdventJS/blob/master/2023/14-evita-la-alarma/index.js) |
 
 ## Recursos
 
