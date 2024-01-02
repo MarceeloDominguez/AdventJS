@@ -23,6 +23,7 @@ _Este repositorio contiene mis soluciones a los retos de AdventJS propuestos por
 |```12```| Es una copia valida | [Ver](https://github.com/MarceeloDominguez/AdventJS/blob/master/2023/12-es-una-copia-valida/index.js) |
 |```13```| Calculando el tiempo | [Ver](https://github.com/MarceeloDominguez/AdventJS/blob/master/2023/13-calculando-el-tiempo/index.js) |
 |```14```| Evita la alarma | [Ver](https://github.com/MarceeloDominguez/AdventJS/blob/master/2023/14-evita-la-alarma/index.js) |
+|```15```| Robot autonomo | [Ver](https://github.com/MarceeloDominguez/AdventJS/blob/master/2023/15-robot-autonomo/index.js) |
 
 ## Recursos
 
