@@ -24,6 +24,8 @@ _Este repositorio contiene mis soluciones a los retos de AdventJS propuestos por
 |```13```| Calculando el tiempo | [Ver](https://github.com/MarceeloDominguez/AdventJS/blob/master/2023/13-calculando-el-tiempo/index.js) |
 |```14```| Evita la alarma | [Ver](https://github.com/MarceeloDominguez/AdventJS/blob/master/2023/14-evita-la-alarma/index.js) |
 |```15```| Robot autonomo | [Ver](https://github.com/MarceeloDominguez/AdventJS/blob/master/2023/15-robot-autonomo/index.js) |
+|```16```| Despliegue en viernes | [Ver](https://github.com/MarceeloDominguez/AdventJS/blob/master/2023/16-despliegue-en-viernes/index.js) |
+|```17```| Optimizando el alquiler | [Ver](https://github.com/MarceeloDominguez/AdventJS/blob/master/2023/17-optimizando-el-alquiler/index.js) |
 
 ## Recursos
 
